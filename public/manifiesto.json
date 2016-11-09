@@ -1,0 +1,11 @@
+{
+  "name": "Demo Offline Meteor",
+  "short_name": "demooffline",
+  "start_url": "./",
+  "display": "standalone",
+  "icons": [{
+    "src": "images/logo-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
