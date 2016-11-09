@@ -27,4 +27,5 @@ fourseven:scss
 meteoric:ionic-sass
 meteoric:ionicons-sass
 iron:router
-check
+check@1.2.4
+tap:i18n

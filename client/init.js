@@ -1,3 +1,5 @@
+import { TAPi18n } from "meteor/tap:i18n";
+
 Meteor.startup(function () {
 	Meteor.subscribe("contacts");
 
@@ -8,4 +10,14 @@ Meteor.startup(function () {
           console.log('ServiceWorker registration failed:', error);
         });
       }
+
+
+    TAPi18n.setLanguage('es')
+    	.done(()=>{
+    		console.log('OK')
+    	})
+    	.fail((e)=>{
+    		console.log(e)
+    	});
+ 
 });
