@@ -1,4 +1,4 @@
-# Demo Offline Meteor Contacts in 1.4+
+# Demo Offline Meteor Contacts in Meteor 1.4+
 
 forked from [Rafael Quintanilha] (https://github.com/rafaelquintanilha/offlinecontacts)
 # Offline Contacts App with Meteor & Cordova
