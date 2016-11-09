@@ -1,10 +1,21 @@
 {
-  "name": "DemoGround",
-  "private": true,
+  "name": "demoofflinemeteor",
+  "version": "1.0.0",
+  "description": "Demo Offline Meteor Contacts forked from rafaelquintanilha/offlinecontacts in Meteor 1.4+",
   "scripts": {
     "start": "meteor run"
   },
   "dependencies": {
     "meteor-node-stubs": "~0.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilopaez/DemoOfflineMeteor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilopaez/DemoOfflineMeteor/issues"
+  },
+  "homepage": "https://github.com/danilopaez/DemoOfflineMeteor#readme"
 }
